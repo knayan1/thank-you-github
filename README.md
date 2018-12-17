@@ -2310,3 +2310,4 @@ Signed,
 - Chelwin ([@Chelwin](https://github.com/Chelwin)), CS Engineer + aspiring computer scientist, Switzerland
 - Nguyen Hoang Nam ([@hoangnam2261](https://github.com/hoangnam2261)), Java Software Engineer, Viet Nam
 - Aryan Gautam ([@aryan7778](https://github.com/aryan7778)),Engg. Student and Open Source Enthusiast,India
+- Kamal Nayan ([@knayan1](https://github.com/knayan1)), Passionate programmer | perl | python | Security researcher | R&D | Stand-up | Author | India
